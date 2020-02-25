@@ -2,10 +2,17 @@
 
 During this assignment, the following models were applied to see which one is the best to predict the Yen future behaviour accordingly:
 
-    - ARMA
-    - ARIMA
-    - GARCH
-    - Linear Regression
+    ### - ARMA
+    ### - ARIMA
+    ### - GARCH
+    ### - Linear Regression
+
+### Files
+
+[Time-Series Starter Notebook](Starter_Code/time_series_analysis.ipynb)
+
+[Linear Regression Starter Notebook](Starter_Code/regression_analysis.ipynb)
+
 ---
 
 ## ARMA
@@ -90,6 +97,11 @@ Data was split in Train and Test:
 
 ![Return_Predicted](Images/Return_Predicted_LR.png)
 
+### Out-of-Sample Root Mean Squared Error (RMSE): 0.41521675083603804
+### In-sample Root Mean Squared Error (RMSE): 0.5658708047560468
+
 ---
 
 ## Final Conclussions
+
+### As we can see, according to RMSE, it is better the model to predict the Returns with Test Data. It means that the model would work well predicting Returns beyond the actual data. I think this model is the most accurate one for the data we have.
