@@ -1,9 +1,5 @@
 # Yen Futures - Model Fitting Analysis
 
-![Yen Photo](Images/unit-10-readme-photo.png)
-
-## Models
-
 During this assignment, the following models were applied to see which one is the best to predict the Yen future behaviour accordingly:
 
     - ARMA
@@ -16,7 +12,7 @@ During this assignment, the following models were applied to see which one is th
 
 The following DataFrame was used to run the ARMA Model Analysis:
 
-![DF](Images/yen_df.png)
+![DF](Images/Yen_df.png)
 
 According to that DF, the Settle Price was Decomposed into Trend and Noise accordingly for the whole analysis:
 
@@ -24,7 +20,8 @@ According to that DF, the Settle Price was Decomposed into Trend and Noise accor
 
 ![PriceTrend](Images/Price_vs_Trend.png)
 
-![Noise](Images/Yen_df.png)
+![Noise](Images/Noise.png)
+
 
 ---
 
