@@ -20,11 +20,11 @@ The following DataFrame was used to run the ARMA Model Analysis:
 
 According to that DF, the Settle Price was Decomposed into Trend and Noise accordingly for the whole analysis:
 
-![Settle](Images/yen_futures_settle.png)
+![Settle](Images/Yen_Futures_Settle.png)
 
 ![PriceTrend](Images/Price_vs_Trend.png)
 
-![Noise](Images/yen_df.png)
+![Noise](Images/Yen_df.png)
 
 ---
 
